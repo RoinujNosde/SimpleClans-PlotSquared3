@@ -1,0 +1,5 @@
+main: me.roinujnosde.scps3.SimpleClansPlotSquared3
+name: SimpleClans-PlotSquared3
+version: 1.0.0
+api-version: 1.13
+depend: [ "SimpleClans", "PlotSquared" ]
